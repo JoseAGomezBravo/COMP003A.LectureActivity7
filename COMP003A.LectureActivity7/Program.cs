@@ -1,5 +1,5 @@
 ﻿/*
- * Author: Jonathan Cruz
+ * Author: Jose Angel Gomez Bravo
  * Course: COMP-003A
  * Purpose: Array and List Activity Lecture
  * 
